@@ -1,0 +1,8 @@
+code: solrclient-bundle
+description: This is the solrclient bundle
+
+components:
+  plugins:
+    - plugins/solrclient-plugin.yaml
+
+
