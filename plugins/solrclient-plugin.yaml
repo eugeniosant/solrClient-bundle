@@ -1,5 +1,5 @@
 descriptorVersion: v4
-image: eugeniosant/solr-client:0.0.8
+image: eugeniosant/solr-client:0.0.9
 dbms: none
 healthCheckPath: "/management/health"
 roles:
